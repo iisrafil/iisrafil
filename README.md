@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iisrafil
-- 👀 I’m interested in Web Development and Data Science 
-- 🌱 I’m currently learning React.JS
+- 👀 I’m interested in Web Development, Data Science and firmwate developer
+- 🌱 I’m currently learning Baremetal Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
